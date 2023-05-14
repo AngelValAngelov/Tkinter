@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 from tkinter import *
 
 root = Tk()
@@ -210,4 +209,4 @@ button_multiply.grid(row=6, column=1)
 button_divide.grid(row=6, column=2)
 
 root.mainloop()
->>>>>>> dc82f98564f728bf38bfda24ae3e11747e461390
+

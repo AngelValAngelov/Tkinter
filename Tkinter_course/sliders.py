@@ -1,7 +1,7 @@
 from tkinter import *
 
 root = Tk()
-root.title('Radio buttons')
+root.title('Sliders')
 root.geometry('400x400')
 
 vertical = Scale(root, from_=0, to=200)

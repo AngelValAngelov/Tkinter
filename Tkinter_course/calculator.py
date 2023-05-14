@@ -103,7 +103,7 @@ button_multiply.grid(row=6, column=1)
 button_divide.grid(row=6, column=2)
 
 root.mainloop()
-=======
+
 from tkinter import *
 
 root = Tk()

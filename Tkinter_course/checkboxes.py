@@ -1,7 +1,7 @@
 from tkinter import *
 
 root = Tk()
-root.title('Radio buttons')
+root.title('Checkboxes')
 root.geometry('400x400')
 
 var = StringVar()
